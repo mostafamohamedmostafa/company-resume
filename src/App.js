@@ -1,7 +1,11 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import { HomePage } from "./Pages/HomePage";
+import { Navigation } from "./Components/Navigation";
+import { AboutUsPage } from "./Pages/AboutUsPage";
 
 function App() {
   useEffect(() => {
@@ -10,7 +14,11 @@ function App() {
   }, []);
   return (
     <div className="App container-fluid">
-      <HomePage></HomePage>
+      <Navigation></Navigation>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="AboutPage" element={<AboutUsPage />} />
+      </Routes>
     </div>
   );
 }

@@ -25,6 +25,17 @@ import Clients4 from "../images/Clients4.png";
 import Clients5 from "../images/Clients5.png";
 import Clients6 from "../images/Clients6.png";
 
+import TeamMember1 from "../images/Team-Member1.png";
+import TeamMember2 from "../images/Team-Member2.png";
+import TeamMember3 from "../images/Team-Member3.png";
+import TeamMember4 from "../images/Team-Member4.png";
+import TeamMember5 from "../images/Team-Member5.png";
+import TeamMember6 from "../images/Team-Member6.png";
+
+import review1 from "../images/review1.png";
+import review2 from "../images/review2.png";
+import review3 from "../images/review3.png";
+
 const ServiceHeroSection1Data = [
   {
     Image: FinishedProject,
@@ -171,10 +182,79 @@ const ClientsLogo = [
   },
 ];
 
+const TeamMembersData = [
+  {
+    Image: TeamMember1,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member One ",
+    MemberJob: "Team Member One Job ",
+  },
+  {
+    Image: TeamMember2,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member Two ",
+    MemberJob: "Team Member Two Job ",
+  },
+  {
+    Image: TeamMember3,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member Three ",
+    MemberJob: "Team Member Three Job ",
+  },
+  {
+    Image: TeamMember4,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member Four ",
+    MemberJob: "Team Member Four Job ",
+  },
+  {
+    Image: TeamMember5,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member Five ",
+    MemberJob: "Team Member Five Job ",
+  },
+  {
+    Image: TeamMember6,
+    ImageALt: "Team Member ",
+    MemberName: "Team Member Six ",
+    MemberJob: "Team Member Six Job ",
+  },
+];
+
+const ClientsRatingData = [
+  {
+    Image: review1,
+    ImageALt: "Client Review ",
+    ClientStars: "⭐⭐⭐⭐⭐",
+    ClinentName: "Client Review ",
+    ClientReview:
+      "In consequat ut metus sit amet egestas. Nam eget orci eu sem egestas hendrerit ac non ligula. Aenean non tincidunt arcu. Sed ac efficitur ante. Morbi nisi velit, luctus sit amet sodales mollis, laoreet vel lacus. Ut a sem congue, placerat ex aliquet, scelerisque magna. Praesent mattis congue pulvinar. Phasellus quis volutpat mi. Pellentesque suscipit ligula et mauris facilisis, a consectetur tortor suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  },
+
+  {
+    Image: review2,
+    ImageALt: "Client Review ",
+    ClientStars: "⭐⭐⭐⭐",
+    ClinentName: "Client Review ",
+    ClientReview:
+      "In consequat ut metus sit amet egestas. Nam eget orci eu sem egestas hendrerit ac non ligula. Aenean non tincidunt arcu. Sed ac efficitur ante. Morbi nisi velit, luctus sit amet sodales mollis, laoreet vel lacus. Ut a sem congue, placerat ex aliquet, scelerisque magna. Praesent mattis congue pulvinar. Phasellus quis volutpat mi. Pellentesque suscipit ligula et mauris facilisis, a consectetur tortor suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  },
+  {
+    Image: review3,
+    ImageALt: "Client Review ",
+    ClientStars: "⭐⭐⭐⭐⭐",
+    ClinentName: "Client Review ",
+    ClientReview:
+      "In consequat ut metus sit amet egestas. Nam eget orci eu sem egestas hendrerit ac non ligula. Aenean non tincidunt arcu. Sed ac efficitur ante. Morbi nisi velit, luctus sit amet sodales mollis, laoreet vel lacus. Ut a sem congue, placerat ex aliquet, scelerisque magna. Praesent mattis congue pulvinar. Phasellus quis volutpat mi. Pellentesque suscipit ligula et mauris facilisis, a consectetur tortor suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  },
+];
+
 export {
   ServiceHeroSection1Data,
   ServiceHeroSection2Data,
   ProjectsData,
   Steps,
   ClientsLogo,
+  TeamMembersData,
+  ClientsRatingData,
 };
