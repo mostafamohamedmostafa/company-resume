@@ -1,13 +1,23 @@
 {
   "files": {
     "main.css": "/company-resume/static/css/main.4d564832.css",
-    "main.js": "/company-resume/static/js/main.01fee09a.js",
-    "static/js/453.1332d7b4.chunk.js": "/company-resume/static/js/453.1332d7b4.chunk.js",
+    "main.js": "/company-resume/static/js/main.bf119c38.js",
+    "static/js/453.b3be2c2c.chunk.js": "/company-resume/static/js/453.b3be2c2c.chunk.js",
     "static/media/Projects3.png": "/company-resume/static/media/Projects3.ccee87e34fd7c1ad6768.png",
     "static/media/Projects6.png": "/company-resume/static/media/Projects6.a9301724dbebed3cd2e4.png",
+    "static/media/Team-Member1.png": "/company-resume/static/media/Team-Member1.048f6cea069dcd6797a1.png",
+    "static/media/Team-Member4.png": "/company-resume/static/media/Team-Member4.2535b0aa00c90c116f29.png",
+    "static/media/review1.png": "/company-resume/static/media/review1.c8ad2fd7b838757c5f85.png",
+    "static/media/review3.png": "/company-resume/static/media/review3.041c6a010d54d341f35c.png",
     "static/media/Projects5.png": "/company-resume/static/media/Projects5.80d2675a5a8c3671bd86.png",
+    "static/media/review2.png": "/company-resume/static/media/review2.fd8ee9fb574d1b256188.png",
     "static/media/Projects2.png": "/company-resume/static/media/Projects2.f914b1763cdf17321042.png",
+    "static/media/Team-Member3.png": "/company-resume/static/media/Team-Member3.72c6962876d05ff89dc2.png",
+    "static/media/Team-Member5.png": "/company-resume/static/media/Team-Member5.008ab541060d10a1f29a.png",
+    "static/media/Team-Member2.png": "/company-resume/static/media/Team-Member2.b0c204b4e61f8153bdf6.png",
     "static/media/Projects4.png": "/company-resume/static/media/Projects4.5ddca610679849181ee7.png",
+    "static/media/AboutUsComponentImg.png": "/company-resume/static/media/AboutUsComponentImg.45428ba031fb36a27b37.png",
+    "static/media/Team-Member6.png": "/company-resume/static/media/Team-Member6.45428ba031fb36a27b37.png",
     "static/media/Projects1.png": "/company-resume/static/media/Projects1.cc2128a639d059b5a302.png",
     "static/media/Opinion.png": "/company-resume/static/media/Opinion.0daa4cf53b3f7d853a31.png",
     "static/media/World-Class-Support.png": "/company-resume/static/media/World-Class-Support.d6c8fdb67b8cf322a33d.png",
@@ -35,11 +45,11 @@
     "static/media/FinishedProject.png": "/company-resume/static/media/FinishedProject.9c1543022b948728d2d7.png",
     "index.html": "/company-resume/index.html",
     "main.4d564832.css.map": "/company-resume/static/css/main.4d564832.css.map",
-    "main.01fee09a.js.map": "/company-resume/static/js/main.01fee09a.js.map",
-    "453.1332d7b4.chunk.js.map": "/company-resume/static/js/453.1332d7b4.chunk.js.map"
+    "main.bf119c38.js.map": "/company-resume/static/js/main.bf119c38.js.map",
+    "453.b3be2c2c.chunk.js.map": "/company-resume/static/js/453.b3be2c2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d564832.css",
-    "static/js/main.01fee09a.js"
+    "static/js/main.bf119c38.js"
   ]
 }
