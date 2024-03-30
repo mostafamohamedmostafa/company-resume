@@ -13,7 +13,7 @@ export const ClientReviewComponent = () => {
         <div className="row  row-cols-1   ">
           {ClientsRatingData.map((ClientsRatingData, index) => {
             return (
-              <div className="col-lg-3" key={index}>
+              <div className="col-lg-4" key={index}>
                 <div className="card h-100 mb-3">
                   <img
                     src={ClientsRatingData.Image}

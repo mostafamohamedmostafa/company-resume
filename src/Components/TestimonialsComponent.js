@@ -16,7 +16,7 @@ export const TestimonialsComponent = () => {
                     <div className="card" >
                       <img src={Clients1} className="card-img-top" alt="..." />
                       <div className="card-body">
-                        <h5 className="card-title">Clients1 </h5>
+                         <h5 className="card-title"> </h5>
                         <p className="card-text">
                           Fusce sed lacus aliquet, commodo nibh id, ornare nibh.
                           Ut sit amet augue ut libero aliquet porta. Maecenas
