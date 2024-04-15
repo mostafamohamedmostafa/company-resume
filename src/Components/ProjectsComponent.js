@@ -13,7 +13,7 @@ export const ProjectsComponent = () => {
                 <img
                   src={ProjectsData.Image}
                   className="img-fluid rounded-start"
-                  alt={ProjectsData.ImageALt}  data-aos="flip-down"  data-aos-duration="2000"
+                  alt={ProjectsData.ImageALt}  data-aos="zoom-in-up"  data-aos-duration="2000"
                 />
 
                 <div className="card-body">

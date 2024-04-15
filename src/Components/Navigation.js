@@ -4,7 +4,7 @@ import { Link, Route, Routes } from "react-router-dom";
 
 export const Navigation = () => {
   return (
-    <section className="Navigation ">
+    <section className="Navigation mb-0 ">
       <nav
         className="navbar navbar-expand-lg bg-body-tertiary bg-dark border-bottom border-body"
         data-bs-theme="dark"
@@ -26,8 +26,8 @@ export const Navigation = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <Link className="nav-link" to="/">
-                Home <span className="sr-only">(current)</span>
+              <Link className="nav-link" to="company-resume">
+                Home
               </Link>
 
               <Link className="nav-link" to="AboutPage">
