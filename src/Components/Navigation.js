@@ -33,6 +33,10 @@ export const Navigation = () => {
               <Link className="nav-link" to="AboutPage">
                 About Page
               </Link>
+
+              <Link className="nav-link" to="TeamPage">
+              TeamPage
+              </Link>
             </div>
           </div>
         </div>
